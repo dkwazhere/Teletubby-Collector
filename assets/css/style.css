@@ -1,5 +1,7 @@
 body {
-    background-image: url("../images/christmas-colour.png");
+    background-image: url("../images/background.png");
+    background-size: 1500px 1000px;
+    background-repeat: no-repeat;
 }
 #header{
     background-color: orange;
@@ -28,6 +30,7 @@ body {
 .tubs {
     height: 100px;
     width: 100px;
+    background-color: white;
 }
 #totalscore {
     background-color: #D35147;
