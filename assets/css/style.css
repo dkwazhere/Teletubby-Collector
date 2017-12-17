@@ -1,0 +1,43 @@
+body {
+    background-image: url("../images/christmas-colour.png");
+}
+#header{
+    background-color: orange;
+    border-radius: 10px;
+}
+#instructions {
+    background-color: #5ECDBD;
+    padding: 1%;
+    border-radius: 10px;
+}
+#randomnumber {
+    background-color: #253E5F;
+    color: white;
+    margin-top: 1%;
+    font-size: 36px;
+    border-radius: 10px;
+}
+#winsloss {
+    background-color: #2EC73C;
+    margin-top: 1%;
+    border-radius: 10px;
+}
+#characters {
+    margin-top: 1%;
+}
+.tubs {
+    height: 100px;
+    width: 100px;
+}
+#totalscore {
+    background-color: #D35147;
+    margin-top: 1%;
+    border-radius: 10px;
+}
+#usernumber {
+    background-color: #D35147;
+    padding: 1%;
+    margin-top: 1%;
+    font-size: 36px;
+    border-radius: 10px;
+}
